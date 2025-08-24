@@ -4,7 +4,7 @@ This repository consists the reproducible materials of the paper "Trustworthy an
 📄 Paper link: [DOI / arXiv / Journal link]
 
 📂 Repository Structure
-
+```
 ├── data/
 │   ├── real_data.rds            # Real dataset used in the paper
 │   ├── simulation_results.rds   # Results from simulation studies
@@ -20,7 +20,7 @@ This repository consists the reproducible materials of the paper "Trustworthy an
 │
 ├── renv/                        # R environment information (package versions)
 ├── README.md                    # This file
-
+```
 🚀 How to Use
 
 Clone the repository:
