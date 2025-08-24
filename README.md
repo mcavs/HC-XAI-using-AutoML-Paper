@@ -5,9 +5,28 @@ This repository consists the reproducible materials of the paper "Trustworthy an
 
 📂 Repository Structure
 ```
-├── data/
-│   ├── real_data.rds            # Real dataset used in the paper
-│   ├── simulation_results.rds   # Results from simulation studies
+├── raw results/
+│   ├── real_data_results/                 # Real dataset result files
+│       ├── regression_results/...         # Regression real dataset result files
+│           ├──                            # 
+│           ├── ...                        
+│       ├── classification_results/...     # Classification real dataset result files
+│           ├──                            # 
+│           ├── ...                        
+│   ├── simulation_results/                # Results from simulation studies
+│       ├── regression_results/...         # Regression task results
+│           ├──                            # 
+│           ├── ...                        
+│       ├── classification_results/...     # Classification task results
+│           ├──                            # 
+│           ├── ...                        
+│       ├── ground_truth_pdp_results/...   # Ground-truth PDP results
+│           ├── regression_pdp/...         # Ground-truth PDPs for regression task
+│               ├──                        # 
+│               ├── ...                        
+│           ├── classification_pdp/...     # Ground-truth PDPs for classification task
+│               ├──                        # 
+│               ├── ...                        
 │
 ├── scripts/
 │   ├── 01_simulation.R          # Simulation study code
@@ -18,7 +37,6 @@ This repository consists the reproducible materials of the paper "Trustworthy an
 │   ├── tables/                  # Reproduced tables from the paper
 │   ├── figures/                 # Reproduced figures from the paper
 │
-├── renv/                        # R environment information (package versions)
 ├── README.md                    # This file
 ```
 🚀 How to Use
