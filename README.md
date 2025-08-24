@@ -62,14 +62,7 @@ source("scripts/03_tables_figures.R")
 * Code has been tested on R (>=4.3.0).
 * Randomness in simulations is controlled by fixed seed values.
 
-📜 License
-This repository is released under the MIT License
-.
-
-Code can be freely used and adapted.
-
-Data files are provided for research purposes only.
-
 ✨ Contact
+
 For questions, please contact:
 Mustafa Cavus – [mustafacavus@eskisehir.edu.tr] or open an issue on GitHub.
