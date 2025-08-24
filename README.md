@@ -63,6 +63,4 @@ source("scripts/03_tables_figures.R")
 * Randomness in simulations is controlled by fixed seed values.
 
 ✨ Contact
-
-For questions, please contact:
-Mustafa Cavus – [mustafacavus@eskisehir.edu.tr] or open an issue on GitHub.
+For questions, please contact: Mustafa Cavus – [mustafacavus@eskisehir.edu.tr] or open an issue on GitHub.
