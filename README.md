@@ -5,26 +5,26 @@ This repository consists the reproducible materials of the paper "Trustworthy an
 📂 Repository Structure
 ```
 ├── raw results/
-│   ├── real_data_results/                 # Real dataset result files
-│       ├── regression_results/...         # Regression real dataset result files
-│           ├──                            # 
+│   ├── real_data_results/                    # Real dataset result files
+│       ├── regression_results/...            # Regression real dataset result files
+│           ├──                               # 
 │           ├── ...                        
-│       ├── classification_results/...     # Classification real dataset result files
-│           ├──                            # 
+│       ├── classification_results/...        # Classification real dataset result files
+│           ├──                               # 
 │           ├── ...                        
-│   ├── simulation_results/                # Results from simulation studies
-│       ├── regression_results/...         # Regression task results
-│           ├──                            # 
+│   ├── simulation_results/                   # Results from simulation studies
+│       ├── regression_results/...            # Regression task results
+│           ├──                               # 
 │           ├── ...                        
-│       ├── classification_results/...     # Classification task results
-│           ├──                            # 
+│       ├── classification_results/...        # Classification task results
+│           ├──                               # 
 │           ├── ...                        
-│       ├── ground_truth_pdp_results/...   # Ground-truth PDP results
-│           ├── regression_pdp/...         # Ground-truth PDPs for regression task
-│               ├──                        # 
+│       ├── ground_truth_pdp_results/...      # Ground-truth PDP results
+│           ├── regression_results/...        # Ground-truth PDPs for regression task
+│               ├──                           # 
 │               ├── ...                        
-│           ├── classification_pdp/...     # Ground-truth PDPs for classification task
-│               ├──                        # 
+│           ├── classification_results/...    # Ground-truth PDPs for classification task
+│               ├──                           # 
 │               ├── ...                        
 │
 ├── scripts/
