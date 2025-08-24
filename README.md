@@ -46,7 +46,7 @@ git clone https://github.com/username/repo-name.git
 cd repo-name
 ```
 
-Run the scripts to reproduce the results:
+2. Run the scripts to reproduce the results:
 ```
 source("scripts/01_simulation.R")
 source("scripts/02_real_data_analysis.R")
