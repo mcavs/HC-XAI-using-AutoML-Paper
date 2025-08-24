@@ -60,7 +60,8 @@ source("scripts/03_tables_figures.R")
 
 🔎 Reproducibility Notes
 * Code has been tested on R (>=4.3.0).
-* Randomness in simulations is controlled by fixed seed values.
+* Randomness in simulations is controlled by fixed seed values using `set.seed(123)`.
 
 📨 Contact
+
 Mustafa Cavus – [mustafacavus@eskisehir.edu.tr] or open an issue on GitHub.
