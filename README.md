@@ -1,4 +1,4 @@
-This repository consists the reproducible materials of the paper "Trustworthy and Human-Centered XAI using AutoML: A Rashomon Perspective on Explanation Uncertainty"
+This repository consists the reproducible materials of the paper "Partial Dependence Profiles using the Rashomon Set and AutoML: Enabling Trustworthy and Human-Centered XAI"
 
 📄 Paper link: [DOI / arXiv / Journal link]
 
